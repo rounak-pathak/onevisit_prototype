@@ -1,0 +1,4 @@
+DOCUMENT TYPE: BANK PASSBOOK
+Account Holder Name: Aarav Demo
+Account Number: XXXX-XXXX-1234
+IFSC: DEMO0001234

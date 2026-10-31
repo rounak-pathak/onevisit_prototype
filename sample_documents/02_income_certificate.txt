@@ -1,0 +1,6 @@
+DOCUMENT TYPE: INCOME CERTIFICATE
+Name: Aarav D.
+Annual Income: 180000
+Issue Date: 10/01/2024
+Valid Until: 09/01/2025
+Certificate Number: DEMO-INC-002
